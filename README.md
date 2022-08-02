@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Nathalia. 👋
 
-- 🌱 Estou estudando JAVA.
-- 🔭 Em busca de uma oportunidade para fazer a transição de carreira.
+- 🌱 Aqui coloco meus repositórios na linguagem JAVA.
+- 🔭 Estou em busca de uma oportunidade para fazer a transição de carreira.
 - 😄 Pronomes: ela/dela
 
 <div align="center">
