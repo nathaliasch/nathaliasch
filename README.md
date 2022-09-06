@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Nathalia. 👋
 
-- 🌱 Aqui coloco meus repositórios na linguagem JAVA.
+- 🌱 Aqui coloco meus repositórios na linguagem JAVA e PYTHON.
 - 🔭 Estou em busca de uma oportunidade para fazer a transição de carreira.
 - 😄 Pronomes: ela/dela
 
@@ -12,6 +12,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Nat-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Nat-P" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nat-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Nat-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Nat-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
