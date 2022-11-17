@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Nathalia. 👋
 
-- 🌱 Aqui coloco meus repositórios na linguagem JAVA e PYTHON.
+- 🌱 Aqui coloco meus repositórios.
 - 🔭 Em transição de carreira.
 - 😄 Pronomes: ela/dela
 
