@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Nathalia. 👋
 
-- 🌱 Aqui coloco meus repositórios dos cursos e Bootcamps que participo.
+- 🌱 Aqui coloco os repositórios dos cursos e Bootcamps que participo.
 - 🔭 Profissional em transição de carreira.
-- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/nathaliasch">
