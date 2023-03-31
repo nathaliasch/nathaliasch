@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Nathalia. 👋
 
-- 🌱 Aqui coloco os repositórios dos cursos e Bootcamps que participo.
-- 🔭 Profissional em transição de carreira.
+- 🌱 Aqui coloco os repositórios dos cursos na área de programação e dos Bootcamps que participo.
+- 🔭 Profissional em transição de carreira fazendo Pós Graduação em Data Science e Analytics.
 
 <div align="center">
   <a href="https://github.com/nathaliasch">
