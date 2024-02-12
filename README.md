@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Nathalia. 👋
 
-- 🔭 Sou Engenheira de Dados de uma Multinacional e curso Pós Graduação em Data Science e Analytics na PUC/RJ.
+- 🔭 Sou Engenheira de Dados e curso Pós Graduação em Data Science e Analytics na PUC/RJ.
 - 🌱 Aqui coloco os repositórios dos cursos e Bootcamps que participo.
 
 <div align="center">
