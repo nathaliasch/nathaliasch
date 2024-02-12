@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Nathalia. 👋
 
+- 🔭 Sou Engenheira de Dados e curso Pós Graduação em Data Science e Analytics.
 - 🌱 Aqui coloco os repositórios dos cursos na área de programação e dos Bootcamps que participo.
-- 🔭 Profissional em transição de carreira fazendo Pós Graduação em Data Science e Analytics.
 
 <div align="center">
   <a href="https://github.com/nathaliasch">
