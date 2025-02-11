@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Nathalia. 👋
 
-- 🔭 Sou Engenheira de Dados e pós graduada em Data Science e Analytics na PUC/RJ.
+- 🔭 Sou Engenheira de Dados e pós graduada em Data Science e Analytics na PUC/RJ. Também sou monitora voluntária dos cursos de Data Analytics da ong WomakersCode.
 - 🌱 Aqui coloco os repositórios dos cursos e Bootcamps que participo.
 
 <div align="center">
